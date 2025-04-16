@@ -9,7 +9,7 @@
 
 <br>
 
-## <p align="center">⛵🌈💙 Atualmente estou Aprendendo HTML, CSS, JAVA/Javascript e React pelo Instituto PROA ⛵🌈💙
+## <p align="center">⛵🌈💙 Atualmente estou Aprendendo HTML, CSS, JAVA/Javascript e React pelo Instituto PROA! ⛵🌈💙
 </p>
 
 <br>
