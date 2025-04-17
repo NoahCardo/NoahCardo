@@ -21,3 +21,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
   <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" height="60" alt="react" />
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillDeev/WillDeev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillDeev/WillDeev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WillDeev/WillDeev/output/pacman-contribution-graph.svg">
+</picture>
