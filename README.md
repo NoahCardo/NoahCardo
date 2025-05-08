@@ -1,5 +1,6 @@
-## <p align="center">🏳️‍⚧👻 Oie! Eu sou Noah! 🏳️‍⚧👻
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=90caf9"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90caf9&size=35&center=true&vCenter=true&width=1000&lines=🏳️‍⚧👻+Oie!+Eu+sou+Noah!+🏳️‍⚧👻;Sou+um+Estudante+de+Desenvolvimento-Web!;Que+bom+tê-lo+por+aqui!+Seja+muito+bem-vinde!~)](https://git.io/typing-svg)
 
 <br>
 
@@ -9,17 +10,29 @@
 
 <br>
 
-## <p align="center">⛵🌈💙 Atualmente estou Aprendendo HTML, CSS, JAVA/Javascript e React pelo Instituto PROA! ⛵🌈💙
-</p>
+<h1 align="center">Um pouco sobre mim...
+</h1>
+<h3> Completamente apaixonado por elementos da cultura geek desde a infância, posso dizer que a maior de minhas paixões neste nicho seria a por jogos; adoro todos os seus tipos, mas, em especial, os 🎮 jogos eletrônicos 🎮! <br>
+ Com isso, sempre fui curioso quanto aos processos por trás de seu funcionamento... Curiosidade esta que me trouxe até o ⛵🌈💙 Instituto PROA 💙🌈⛵! Onde atualmente estou aprendendo sobre os mais diversos tipos de tecnologias e me aperfeiçoando ainda mais a cada dia; tanto de maneira profissional quanto como pessoa! <br>
+🧑🏽‍💻 Busco oportunidades na área de tecnologia que possam continuar a me fazer crescer e, num futuro próximo, poder tornar minha paixão por jogos em um trabalho! 🧑🏽‍💻
+</h3>
 
+<br>
+
+<h1 align="center">Meus status e tecnologias mais usadas...
+</h1>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoahCardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahCardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" >
 </div>
+
 <br>
 
+<h1 align="center">Tenho desenvolvido com...
+</h1>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
@@ -36,3 +49,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoahCardo/NoahCardo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoahCardo/NoahCardo/output/pacman-contribution-graph.svg">
 </picture>
+
+<br>
+
+<h1 align="center">Interessade nos meus projetos? Fale comigo pelos meios abaixo!
+</h1>
+<br>
+<div align="center">
+  <a href="www.linkedin.com/in/noah-cardozo-714224352" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="noahcardozo.contato@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
+  </a>
+</div>
