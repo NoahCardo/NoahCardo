@@ -63,3 +63,7 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=90caf9&section=footer"/>
