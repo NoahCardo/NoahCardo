@@ -12,10 +12,10 @@
 
 <h1 align="center">☔ Um pouco sobre mim...
 </h1>
-<h3> Completamente apaixonado por elementos da cultura geek desde a infância, posso dizer que a maior de minhas paixões neste nicho seria a por jogos; adoro todos os seus tipos, mas, em especial, os jogos eletrônicos! 🎮 <br>
+<p> Completamente apaixonado por elementos da cultura geek desde a infância, posso dizer que a maior de minhas paixões neste nicho seria a por jogos; adoro todos os seus tipos, mas, em especial, os jogos eletrônicos! 🎮 <br>
  Com isso, sempre fui curioso quanto aos processos por trás de seu funcionamento... Curiosidade esta que me trouxe até o ⛵🌈💙 Instituto PROA 💙🌈⛵! Onde atualmente estou aprendendo sobre os mais diversos tipos de tecnologias e me aperfeiçoando ainda mais a cada dia; tanto de maneira profissional quanto como pessoa! <br>
  Busco oportunidades na área de tecnologia que possam continuar a me fazer crescer! ✨
-</h3>
+</p>
 
 <br>
 
