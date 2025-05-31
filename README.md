@@ -10,17 +10,17 @@
 
 <br>
 
-<h1 align="center">☔ Um pouco sobre mim...
-</h1>
+<h2 align="center">☔ Um pouco sobre mim...
+</h2>
 <p> Completamente apaixonado por elementos da cultura geek desde a infância, posso dizer que a maior de minhas paixões neste nicho seria a por jogos; adoro todos os seus tipos, mas, em especial, os jogos eletrônicos! 🎮 <br>
- Com isso, sempre fui curioso quanto aos processos por trás de seu funcionamento... Curiosidade esta que me trouxe até o ⛵🌈💙 Instituto PROA 💙🌈⛵! Onde atualmente estou aprendendo sobre os mais diversos tipos de tecnologias e me aperfeiçoando ainda mais a cada dia; tanto de maneira profissional quanto como pessoa! <br>
- Busco oportunidades na área de tecnologia que possam continuar a me fazer crescer! ✨
+ Com isso, sempre fui curioso quanto aos processos por trás de seu funcionamento... Curiosidade esta que me trouxe até o ⛵💙 Instituto PROA 💙⛵! Onde atualmente estou aprendendo sobre os mais diversos tipos de tecnologias e me aperfeiçoando ainda mais a cada dia; tanto de maneira profissional quanto como pessoa! <br>
+ Sou empático e trabalho muito bem em equipe, sempre preocupado em escutar a todos e criar, assim, um ambiente respeitoso, inclusivo e acolhedor! Além disso, assim como citado anteriormente, junto a elementos da cultura geek, também adoro gatos, doces e arte! 🌈 <br>
 </p>
 
 <br>
 
-<h1 align="center">🧮 Meus status e tecnologias mais usadas...
-</h1>
+<h2 align="center">🧮 Meus status e tecnologias mais usadas...
+</h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoahCardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph">
@@ -30,8 +30,8 @@
 
 <br>
 
-<h1 align="center">🧑🏽‍💻 Tenho desenvolvido com...
-</h1>
+<h2 align="center">🧑🏽‍💻 Tenho desenvolvido com...
+</h2>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
