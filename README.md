@@ -19,6 +19,10 @@
 
 <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+<br>
+
 <h2 align="center">🧮 Meus status e tecnologias mais usadas...
 </h2>
 <br>
@@ -27,6 +31,10 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahCardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" >
 </div>
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <br>
 
@@ -52,6 +60,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoahCardo/NoahCardo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoahCardo/NoahCardo/output/pacman-contribution-graph.svg">
 </picture>
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <br>
 
