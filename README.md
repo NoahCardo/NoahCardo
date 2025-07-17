@@ -17,11 +17,7 @@
  Sou empático e trabalho muito bem em equipe, sempre preocupado em escutar a todos e criar, assim, um ambiente respeitoso, inclusivo e acolhedor! Além disso, assim como citado anteriormente, junto a elementos da cultura geek, também adoro gatos, doces e arte! 🌈 <br>
 </p>
 
-<br>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-<br>
 
 <h2 align="center">🧮 Meus status e tecnologias mais usadas...
 </h2>
@@ -35,8 +31,6 @@
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-<br>
 
 <h2 align="center">🧑🏽‍💻 Tenho desenvolvido com...
 </h2>
@@ -64,8 +58,6 @@
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-<br>
 
 <h1 align="center">Interessade nos meus projetos? Fale comigo pelos meios abaixo!
 </h1>
