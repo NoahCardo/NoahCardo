@@ -28,8 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahCardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" >
 </div>
 
-<br>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <h2 align="center">🧑🏽‍💻 Tenho desenvolvido com...
