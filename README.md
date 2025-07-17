@@ -53,8 +53,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoahCardo/NoahCardo/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <h1 align="center">Interessade nos meus projetos? Fale comigo pelos meios abaixo!
