@@ -59,7 +59,7 @@
 </h1>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/noah-cardozo-714224352" target="_blank">
+  <a href="https://www.linkedin.com/in/noah-cardozo-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-714224352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:noahcardozo.contato@outlook.com" target="_blank">
