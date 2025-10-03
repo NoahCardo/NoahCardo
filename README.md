@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=90caf9"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90caf9&size=35&center=true&vCenter=true&width=1000&lines=🏳️‍⚧👻+Oie!+Eu+sou+Noah!+🏳️‍⚧👻;Sou+um+Estudante+de+Desenvolvimento+Web!;Que+bom+tê-lo+por+aqui!+Seja+muito+bem-vinde!~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90caf9&size=35&center=true&vCenter=true&width=1000&lines=🏳️‍⚧👻+Oie!+Eu+sou+Noah!+🏳️‍⚧👻;Sou+um+Entusiasta+de+Desenvolvimento+Web!;Que+bom+tê-lo+por+aqui!+Seja+muito+bem-vinde!~)](https://git.io/typing-svg)
 
 <br>
 
@@ -13,7 +13,7 @@
 <h2 align="center">☔ Um pouco sobre mim...
 </h2>
 <p> Completamente apaixonado por elementos da cultura geek desde a infância, posso dizer que a maior de minhas paixões neste nicho seria a por jogos; adoro todos os seus tipos, mas, em especial, os jogos eletrônicos! 🎮 <br>
- Com isso, sempre fui curioso quanto aos processos por trás de seu funcionamento... Curiosidade esta que me trouxe até o ⛵💙 Instituto PROA 💙⛵! Onde atualmente estou aprendendo sobre os mais diversos tipos de tecnologias e me aperfeiçoando ainda mais a cada dia; tanto de maneira profissional quanto como pessoa! <br>
+ Com isso, sempre fui curioso quanto aos processos por trás de seu funcionamento... Curiosidade esta que me trouxe até o ⛵💙 Instituto PROA 💙⛵! Onde aprendi sobre os mais diversos tipos de tecnologias e pude me aperfeiçoar ainda mais a cada dia; tanto de maneira profissional quanto como pessoa! <br>
  Sou empático e trabalho muito bem em equipe, sempre preocupado em escutar a todos e criar, assim, um ambiente respeitoso, inclusivo e acolhedor! Além disso, assim como citado anteriormente, junto a elementos da cultura geek, também adoro gatos, doces e arte! 🌈 <br>
 </p>
 
