@@ -19,17 +19,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
-<h2 align="center">🧮 Meus status e tecnologias mais usadas...
-</h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoahCardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoahCardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" >
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
 <h2 align="center">🧑🏽‍💻 Tenho desenvolvido com...
 </h2>
 <br>
